@@ -1,28 +1,22 @@
-{
-  "profile": {
-    "img": "<img id=\"myPhoto\" src=\"gemma.jpg.jpg\" alt=\"Gemma Faye Triste Photo\">",
-    "fullName": "Gemma Faye Alcantara Triste",
-    "displayName": "Gemma Faye A. Triste",
-    "course": "BSINTE",
-    "school": "NVSU Bambang Campus",
-    "location": "Purok 4, Magsaysay Hill, Bambang, Nueva Vizcaya 3702",
-    "phone": "+63 951 7071 834",
-    "email": "gemmafayetriste2@gmail.com",
-    "website": "GemmaFayeTriste.github.io"
+[
+  {
+    "title": "Sakila Database Lab",
+    "desc": "Aggregates & JOINs Lab - INNER JOIN, LEFT JOIN, GROUP BY, HAVING using MySQL Workbench",
+    "tech": "MySQL, Workbench"
   },
-  "education": [
-    { "level": "Elementary", "school": "Magsaysay Hill", "years": "2012-2019", "award": "Valedictorian" },
-    { "level": "Secondary", "school": "Bambang National High", "years": "2019-2025", "award": "With Honors" },
-    { "level": "Tertiary", "school": "NVSU Bambang Campus", "years": "2025-Present", "course": "BSINTE" }
-  ],
-  "experiences": [
-    "Assistant in Printing Services",
-    "Academic Commissioner",
-    "Cleaner - hardworking & disciplined"
-  ],
-  "skills": [
-    { "name": "Playing Arnis", "level": 95 },
-    { "name": "Designing", "level": 90 }
-  ],
-  "talents": ["Eating", "Designing", "Journaling", "Photography"]
-}
+  {
+    "title": "Networking File Sharing Lab",
+    "desc": "Configured Static IP 192.168.1.100, Subnet Mask 255.255.255.0 and Advanced Sharing Settings",
+    "tech": "Windows, TCP/IPv4"
+  },
+  {
+    "title": "GreenLeaf Inventory System",
+    "desc": "Thesis project - Inventory with login, products, reports",
+    "tech": "PHP, MySQL, VS Code"
+  },
+  {
+    "title": "Pink-Purple Portfolio",
+    "desc": "This responsive portfolio with live date/time and dark mode",
+    "tech": "HTML, CSS, JS, JSON"
+  }
+]
