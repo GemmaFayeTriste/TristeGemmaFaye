@@ -1,22 +1,19 @@
-[
-  {
-    "title": "Sakila Database Lab",
-    "desc": "Aggregates & JOINs Lab - INNER JOIN, LEFT JOIN, GROUP BY, HAVING using MySQL Workbench",
-    "tech": "MySQL, Workbench"
-  },
-  {
-    "title": "Networking File Sharing Lab",
-    "desc": "Configured Static IP 192.168.1.100, Subnet Mask 255.255.255.0 and Advanced Sharing Settings",
-    "tech": "Windows, TCP/IPv4"
-  },
-  {
-    "title": "GreenLeaf Inventory System",
-    "desc": "Thesis project - Inventory with login, products, reports",
-    "tech": "PHP, MySQL, VS Code"
-  },
-  {
-    "title": "Pink-Purple Portfolio",
-    "desc": "This responsive portfolio with live date/time and dark mode",
-    "tech": "HTML, CSS, JS, JSON"
-  }
-]
+{
+  "projects": [
+    {
+      "title": "My First Website",
+      "description": "An example project entry for a personal website built with HTML and CSS.",
+      "url": "https://gemmafayetriste.github.io/"
+    },
+    {
+      "title": "Student Portfolio",
+      "description": "An example portfolio project where I can showcase my skills and learning journey.",
+      "url": "https://gemmafayetriste.github.io/"
+    },
+    {
+      "title": "Creative Web Design",
+      "description": "An example entry for a creative web design project.",
+      "url": "https://gemmafayetriste.github.io/"
+    }
+  ]
+}
