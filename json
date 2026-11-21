@@ -24,5 +24,13 @@
     { "name": "Playing Arnis", "level": 95 },
     { "name": "Designing", "level": 90 }
   ],
-  "talents": ["Eating", "Designing", "Journaling", "Photography"]
+  "talents": ["Eating", "Designing", "Journaling", "Photography"],
+  "projects": [
+    {
+      "name": "Mood Journal App",
+      "description": "A simple and calming app to track your daily mood. Choose your mood — Radiant, Content, Calm, Low, Restless — write a short note, and see your mood pattern over time.",
+      "builtWith": "FlutterFlow",
+      "link": "https://l.facebook.com/l.php?u=https%3A%2F%2F5a7b588630bc4b77ae43f846ab7f2bac-share.flutterflow.cloud%2Fs%2F5a7b588630bc4b77ae43f846ab7f2bac%2F%3Fkey%3DPxEdffzsw0fLnTYRunz4ViYWkaci_sOq1Wlg8Pf4W7A%26fbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFvYlBRY1ZJclFVUmlLVUdRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABH_aWKRfhX4-12g5OmzSpyetYiE1rkSQifIr0KO4xuTNxcNGch1Fo-gVOd73__aem_H7o-pVZhg1iWqvnqOGBOsQ&h=AUCbyzDVEfqs4Y2lhef2UK0z2BA6kzBScJttZgkt7L678WiZZniM1S65Y-sFVEvj2TQdlkfB_nodfkMvXPOSAAX5SU5-sD9MPulcOKJlos4AUuIYE5X2GUFQTp99cJ2qNLxaea6HHp8oucZGpvdF6w"
+    }
+  ]
 }
